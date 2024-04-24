@@ -1,3 +1,2 @@
-let element = document.querySelector('html');
-let nouvelElement = document.createElement('h1');
+let element = document.querySelector('h1');
 element.innerText = "Bonjour le monde";
